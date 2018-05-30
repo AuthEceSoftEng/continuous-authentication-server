@@ -1,0 +1,5 @@
+.env
+node_modules/
+dist/
+subjects-docs/*.json
+trained-projects/*.json
